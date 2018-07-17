@@ -1,0 +1,27 @@
+geojson_file = {
+    'type': 'FeatureCollection',
+        'features': [{
+            'type': 'Feature',
+            'properties': {},
+            'geometry': {
+            'type': 'GeometryCollection',
+            'geometries': [{
+                'type': 'MultiPolygon',
+                'coordinates': [
+                    [[
+                        [-73, 45],
+                        [-76, 46],
+                        [-75, 47],
+                        [-73, 45]
+                    ]],
+                    [[
+                        [-70, 42],
+                        [-73, 43],
+                        [-72, 44],
+                        [-70, 42]
+                    ]]
+                ]
+            }]
+        }
+    }]
+}

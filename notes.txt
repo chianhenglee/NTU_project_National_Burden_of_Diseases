@@ -1,0 +1,21 @@
+Use the current .csv data and work on the following features:
+  1. dropdown bar to select multiple countries (one to all countries)
+  2. slider bar to select the range of years for the x axis
+  3. for each data point, hover shows detail information (min,max...etc)
+
+
+So looks like I will have to use two callbacks (one dropdown one slider) NOPE!
+One callbacks, two States
+*** look up options to choose more than one items in the dropdown bar
+
+follow the stock project
+  * look into States and how it works/how to use it properly
+  * look into
+
+  -------------------
+July 1st to July 4th, 2018
+get the text to show lowerbound upperbound and other information when hover on data point  DONE!!!
+get initial graph to show multiple countries
+get options to show (1. all countries, (2) all Asian countries...etc.
+
+Start another figure (map with Taiwan cities/counties) that shows values with height or colors
